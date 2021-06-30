@@ -16,12 +16,13 @@
 
 Hi, I'm Santiago: 
 
-I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻 and **I've been started coding since i was 16 years old** 🧐. 
+I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐. 
 
-**A book lover** 📕, **a Tech lover** and a good **video-game player** 🎮. 
+**A Tech lover** 🤓 and a good **video-game player** 🎮. 
  
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
+* 💫 Always aiming at **usability** and **code performance** at all costs.  
+* 👽 Learning any tecnology that apears on my way.  
+* 🗝 **Security is first.**
 
 ----
 
