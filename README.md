@@ -16,8 +16,8 @@
 
 Hi, I'm Santiago: 
 
-I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐. 
-
+I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
+**Learning and Studing about Web 3.0 and blockchain.**  
 **A Tech lover** 🤓 and a good **video-game player** 🎮. 
  
 * 💫 Always aiming at **usability** and **code performance** at all costs.  
@@ -25,13 +25,15 @@ I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studi
 * 🗝 **Security is first.**
 
 ----
-<details>
-<summary><b>Top Langs ⌨️</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSANT16&langs_count=8)]
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)
 
-</details>
+</div>
+
+----
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -48,7 +50,6 @@ I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
