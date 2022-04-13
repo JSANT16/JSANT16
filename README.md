@@ -26,12 +26,6 @@ I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studi
 
 ----
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOURMATADOR&theme=oldie&column=7)](https://eduaravila.com/)
-
-</div>
-
 ----
 
 **Languages and Tools:**  
