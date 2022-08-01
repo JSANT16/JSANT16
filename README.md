@@ -16,7 +16,7 @@
 
 Hi, I'm Santiago: 
 
-I'm a Fullstack Developer from Mexico 💚, **27 years old** 👶🏻, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
+I'm a Fullstack Developer from Mexico 💚, **28 years old** 👶🏻, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
 **Learning and Studing about Web 3.0 and blockchain.**  
 **A Tech lover** 🤓 and a good **video-game player** 🎮. 
  
