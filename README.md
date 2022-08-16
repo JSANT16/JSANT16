@@ -49,3 +49,6 @@ I'm a Fullstack Developer from Mexico 💚, **28 years old** 👶🏻, **I studi
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 ![JSANT16 GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsant16&show_icons=true)
+
+<a href="http://www.github.com/JSANT16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JSANT16&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/JSANT16"><img src="https://activity-graph.herokuapp.com/graph?username=JSANT16&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
