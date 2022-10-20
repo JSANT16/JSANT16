@@ -16,7 +16,7 @@
 
 Hey, this is my brief summary: 
 
-I'm a Fullstack Developer from Mexico 💚, **28 years old** 👶🏻, **I'm studying AI 🧠 at Tec MTY**, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
+I'm Fullstack Developer from Mexico 💚, **28 years old** 👶🏻, **I'm studying AI 🧠 at Tec MTY**, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
 **Learning and Studing about AI and Datascience.**  
 **A Tech lover** 🤓 and a good **video-game player** 🎮. 
  
