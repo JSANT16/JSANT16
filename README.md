@@ -1,6 +1,6 @@
 ### 👋 Hello World, I'm Santiago!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="https://www.linkedin.com/in/jose-santiago-rueda-antonio-873b81107/">
+<a target="_blank" href="https://www.linkedin.com/in/santiago-rueda-antonio">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+525527328456">
@@ -14,10 +14,10 @@
 
 ---- 
 
-Hi, I'm Santiago: 
+Hey, this is my brief summary: 
 
-I'm a Fullstack Developer from Mexico 💚, **28 years old** 👶🏻, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
-**Learning and Studing about Web 3.0 and blockchain.**  
+I'm a Fullstack Developer from Mexico 💚, **28 years old** 👶🏻, **I'm studying AI 🧠 at Tec MTY**, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
+**Learning and Studing about AI and Datascience.**  
 **A Tech lover** 🤓 and a good **video-game player** 🎮. 
  
 * 💫 Always aiming at **usability** and **code performance** at all costs.  
