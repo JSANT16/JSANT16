@@ -13,16 +13,17 @@
 </br>
 
 ---- 
-
-Hey, this is my brief summary: 
-
-I'm Fullstack Developer from Mexico 💚, **30 years old**, **I'm studying AI 🧠 at Tec MTY**, **I studied a MSC in CiberSecurity** 👨‍🎓, and **I've been started coding since i was 16 years old** 🧐.  
-**Learning and Studing about AI and Datascience.**  
-**A Tech lover** 🤓 and a good **video-game player** 🎮. 
  
-* 💫 Always aiming at **usability** and **code performance** at all costs.  
-* 👽 Learning any tecnology that apears on my way.  
-* 🗝 **Security is first.**
+I’m a Fullstack Developer from Mexico 💚 with a passion for AI and Cybersecurity.
+Currently studying Artificial Intelligence 🧠 at Tec de Monterrey and holding an MSc in Cybersecurity 👨‍🎓.
+I’ve been coding since I was 16 🧐, and I'm constantly exploring AI and Data Science to stay at the cutting edge.
+
+Tech Enthusiast 🤓 and an avid gamer 🎮.
+
+* 💡 I’m focused on usability and high-performance code.
+* 🚀 Eager to learn any new technology that comes my way.
+* 🛡️ Security always comes first.
+
 
 ----
 
@@ -40,8 +41,6 @@ I'm Fullstack Developer from Mexico 💚, **30 years old**, **I'm studying AI �
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
@@ -51,4 +50,3 @@ I'm Fullstack Developer from Mexico 💚, **30 years old**, **I'm studying AI �
 ![JSANT16 GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsant16&show_icons=true)
 
 <a href="http://www.github.com/JSANT16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JSANT16&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-<a href="http://www.github.com/JSANT16"><img src="https://activity-graph.herokuapp.com/graph?username=JSANT16&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
