@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=400&color=6E40C9&center=true&vCenter=true&width=900&height=60&lines=Hey%2C+I'm+Santiago+%F0%9F%91%8B;Senior+AI+Engineer+%7C+Agent+Architect;I+don't+just+use+AI+%E2%80%94+I+build+it." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-rueda-antonio" target="_blank">
@@ -159,6 +156,3 @@ If you're working on **agentic AI, production LLM systems, or AI-powered product
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=500&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+agents+that+reason%2C+plan%2C+and+act.;Not+just+coding+AI+%E2%80%94+architecting+intelligence." />
-</p>
